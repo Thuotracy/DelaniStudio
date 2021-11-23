@@ -4,7 +4,7 @@
 #### By ** Tracy Wangari**
 
 ## Description
-This is an application that uses your birthday details to tell you the exact day you were born and gives you your Akan Name.
+A webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.
 
 ## Live link
 thuotracy.github.io/delanistudio/
