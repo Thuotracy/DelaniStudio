@@ -55,9 +55,15 @@
 .social{
     text-align: center;
 }
+.contactus{
+    text-align: center;
 
+}
 
-
+.form-control{
+    background-image: url(/images/tracy/c_image.jpg);
+    
+}
 
 
 
