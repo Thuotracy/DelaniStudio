@@ -33,6 +33,7 @@
 }
 #design{
     text-align: center;
+    display: none;
     
 }
 #development{
@@ -41,4 +42,93 @@
 #product{
     text-align: center;
 }
+#hidden{
+    display: none;
+}
+.hidden{
+    display: none;
+}
+#img{
+    position:relative;
+}
 
+
+
+
+
+
+
+
+.blackstudio{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(217, 241, 0);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.brown{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgba(86, 204, 139, 0.192);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.ontario{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgb(212, 0, 255);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.Black{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgb(243, 247, 4);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.elena{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgb(235, 8, 178);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.button{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgb(39, 235, 0);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.burned{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgb(28, 58, 63);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.giraffe{
+    position: absolute;
+    margin-top: -200px;
+    column-width: 42vh;
+    color: rgb(19, 209, 243);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
