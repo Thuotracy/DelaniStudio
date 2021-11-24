@@ -1,6 +1,6 @@
+
 .logo{
     text-align: center;
-    background-image:url(/images/tracy/logo.png) ;
 }
 
 .welcome{
@@ -23,3 +23,22 @@
     text-align: center;
     margin-left: -20vh;
 }
+
+.services{
+    text-align: center;
+    font-size: 130%;
+    background-image: url(/images/tracy/s_image.jpg);
+    height: 75vh;
+    width: 1375px;
+}
+#design{
+    text-align: center;
+    
+}
+#development{
+    text-align: center;
+}
+#product{
+    text-align: center;
+}
+
