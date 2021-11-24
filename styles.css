@@ -62,7 +62,9 @@
 
 .form-control{
     background-image: url(/images/tracy/c_image.jpg);
-    
+    background-color: transparent;
+    height: 25vh;
+    width: 230vh;
 }
 
 
