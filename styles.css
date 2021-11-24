@@ -1,5 +1,24 @@
+.logo{
+    text-align: center;
+    background-image:url(/images/tracy/logo.png) ;
+}
+
+.welcome{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:400%;
+
+}
+.delani{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:250%;
+    color: antiquewhite;
+}
 .one{
     background-image: url(images/shoe.jpg);
     width: 1500px;
-    
+    height: 125vh;
+    text-align: center;
+    margin-left: -20vh;
 }
