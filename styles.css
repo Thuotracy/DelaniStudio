@@ -34,7 +34,7 @@
 .services{
     text-align: center;
     font-size: 100%;
-    background-image: url(/images/tracy/s_image.jpg);
+    background-image: url(images/tracy/s_image.jpg);
     background-size: cover;
     height: 73vh;
     display: flex;
@@ -85,7 +85,7 @@
 }
 
 .form-control{
-    background-image: url(/images/tracy/c_image.jpg);
+    background-image: url(images/tracy/c_image.jpg);
     background-color: transparent;
     /* height: 25vh; */
     /* width: 230vh; */
